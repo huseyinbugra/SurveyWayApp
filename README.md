@@ -10,7 +10,7 @@ SurveyWayApp is a web api that you can create surveys and survey topics. Topic i
 - H2 In-memory database
 - REST
 - Swagger
-- JUnit5
+- Spring Boot Integration Test
 
 ## About Project:
 
